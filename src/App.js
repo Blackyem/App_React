@@ -5,8 +5,9 @@ import    SearchIcon from "./search.svg"
 
   //72646958
 
-const API_URL = "http://www.omdbapi.com/?apikey=72646958&"
-
+  const API_URL = "http://www.omdbapi.com/?apikey=72646958&"
+  // const API_URL = "http://www.omdbapi.com/?apikey=72646958&"
+  
 // const movie1 = {
 //       "Title": "The Walking Dead",
 //     "Year": "2010–2022",
